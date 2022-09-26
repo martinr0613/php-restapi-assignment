@@ -15,7 +15,7 @@ Open MySQL terminal
   <li>Create users table</li>
   <li>Create parcels table</li>
   <li>Insert data into users table</li>
-  <li>Insert data  parcels table</li>
+  <li>Insert data into parcels table</li>
 </ul>
 
 # Start PHP server
